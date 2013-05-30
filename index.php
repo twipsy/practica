@@ -13,12 +13,12 @@
         }
         
         function multiplicacio($a,$b){
-            $c=$a+$b;
+            $c=$a*$b;
             return $c;
         }
 
         function resta($a,$b){
-           $c=$a+$b;
+           $c=$a-$b;
            return $c;
         }
 
