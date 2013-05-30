@@ -17,10 +17,16 @@
             return $c;
         }
 
+        function resta($a,$b){
+           $c=$a+$b;
+           return $c;
+        }
+
         suma(5,234);
         
         multiplicacio(5,234);
         
+        resta(234,5);
         ?>
     </body>
 </html>
