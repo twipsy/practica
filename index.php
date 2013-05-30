@@ -7,6 +7,13 @@
     <body>
         <?php
         // version original
+        function suma($a,$b){
+            $c=$a+$b;
+            return $c;
+        }
+        
+        suma(5,234);
+        
         ?>
     </body>
 </html>
